@@ -1,14 +1,18 @@
-# CA-HTML-Fashion-Blog-Project
-Project showcase for CodeAcademy HTML course
-
+<div align="center"
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSLS0lwY4SORAPipdPe08ztkdAzIWhcEgy3MlCjOuEUZf3KrFH" alt="CodeAcademy">
+<h1>CodeAcademy</h1>
+<h2>Learn HTML</h2>
+</div>
+<br>
+<br>
 # Project Showcase
-
+<!--
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Everyday with Isa</title>
+  <title> Everyday with Isa </title>
 </head>
-
+-->
 <body align="center">
   <a href="#contact">
   <img src="https://s3.amazonaws.com/codecademy-content/courses/learn-html/elements-and-structure/profile.jpg">
