@@ -1,6 +1,5 @@
 <div align="center">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSLS0lwY4SORAPipdPe08ztkdAzIWhcEgy3MlCjOuEUZf3KrFH" alt="CodeAcademy">
-<h1>CodeAcademy</h1>
 <h2>Learn HTML</h2>
 </div>
 <br>
@@ -14,6 +13,7 @@
   <title> Everyday with Isa </title>
 </head>
 -->
+
 <body align="center">
   <a href="#contact">
   <img src="https://s3.amazonaws.com/codecademy-content/courses/learn-html/elements-and-structure/profile.jpg">
@@ -39,9 +39,8 @@
     <li>The Overalls Trend</li>
     <li>Fall’s It Color: Blush</li>
   </pre>
-<div id="contact">
-<p><strong>email:</strong> isa@fashionblog.com | <strong>phone:</strong> 917-555-1098 | <strong>address:</strong> 371 284th St, New York, NY, 10001
-</p>
-</div>
+ <div id="contact">
+ <p><strong>email:</strong> isa@fashionblog.com | <strong>phone:</strong> 917-555-1098 | <strong>address:</strong> 371 284th St, New York, NY, 10001
+ </p>
+ </div>
 </body>
-</html>
