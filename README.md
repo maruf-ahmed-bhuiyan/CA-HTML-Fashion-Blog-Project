@@ -1,4 +1,4 @@
-<div align="center"
+<div align="center">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSLS0lwY4SORAPipdPe08ztkdAzIWhcEgy3MlCjOuEUZf3KrFH" alt="CodeAcademy">
 <h1>CodeAcademy</h1>
 <h2>Learn HTML</h2>
