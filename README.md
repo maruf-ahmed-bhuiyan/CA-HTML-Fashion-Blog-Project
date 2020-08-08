@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://www.codecademy.com/learn/learn-html">
+  <a href="https://www.codecademy.com/learn/learn-html" target="_blank">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSLS0lwY4SORAPipdPe08ztkdAzIWhcEgy3MlCjOuEUZf3KrFH" alt="CodeAcademy">
   </a>
 <h2>Learn HTML</h2>
