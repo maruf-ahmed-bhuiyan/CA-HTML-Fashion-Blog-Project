@@ -2,9 +2,6 @@
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSLS0lwY4SORAPipdPe08ztkdAzIWhcEgy3MlCjOuEUZf3KrFH" alt="CodeAcademy">
 <h2>Learn HTML</h2>
 </div>
-<br>
-<br>
-
 <h2 align="center">Project Showcase</h2>
 <!--
 <!DOCTYPE html>
@@ -40,7 +37,7 @@
     <li>Fall’s It Color: Blush</li>
   </pre>
  </div>
- <div id="contact">
+ <div align="centet" id="contact">
  <p><strong>email:</strong> isa@fashionblog.com | <strong>phone:</strong> 917-555-1098 | <strong>address:</strong> 371 284th St, New York, NY, 10001
  </p>
  </div>
