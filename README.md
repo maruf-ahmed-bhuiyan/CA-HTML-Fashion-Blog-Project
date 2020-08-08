@@ -14,7 +14,7 @@
 </head>
 -->
 
-<body align="center">
+<div align="center">
   <a href="#contact">
   <img src="https://s3.amazonaws.com/codecademy-content/courses/learn-html/elements-and-structure/profile.jpg">
   </a>
@@ -39,8 +39,8 @@
     <li>The Overalls Trend</li>
     <li>Fall’s It Color: Blush</li>
   </pre>
+ </div>
  <div id="contact">
  <p><strong>email:</strong> isa@fashionblog.com | <strong>phone:</strong> 917-555-1098 | <strong>address:</strong> 371 284th St, New York, NY, 10001
  </p>
  </div>
-</body>
