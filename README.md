@@ -37,7 +37,7 @@
     <li>Fall’s It Color: Blush</li>
   </pre>
  </div>
- <div align="centet" id="contact">
+ <div align="center" id="contact">
  <p><strong>email:</strong> isa@fashionblog.com | <strong>phone:</strong> 917-555-1098 | <strong>address:</strong> 371 284th St, New York, NY, 10001
  </p>
  </div>
