@@ -1,7 +1,9 @@
 <div align="center">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSLS0lwY4SORAPipdPe08ztkdAzIWhcEgy3MlCjOuEUZf3KrFH" alt="CodeAcademy">
+  <a href="https://www.codecademy.com/learn/learn-html">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSLS0lwY4SORAPipdPe08ztkdAzIWhcEgy3MlCjOuEUZf3KrFH" alt="CodeAcademy">
+  </a>
 <h2>Learn HTML</h2>
-  <p>This project is part of <strong>CodeAcademy</strong> <em>HTML</em> learning course. I am using this html based website as a showcase as I go through this course</p>
+  <p>This project is part of <strong>CodeAcademy</strong> <em>HTML</em> learning course. I am using this html based website as a showcase as I go through this course. All rights to their original content maker.</p>
 </div>
 <h2 align="center">Project Showcase</h2>
 <!--
