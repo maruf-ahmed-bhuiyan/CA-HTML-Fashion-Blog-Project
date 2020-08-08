@@ -5,7 +5,8 @@
 </div>
 <br>
 <br>
-# Project Showcase
+
+<h2 align="center">Project Showcase</h2>
 <!--
 <!DOCTYPE html>
 <html>
